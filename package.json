@@ -1,6 +1,6 @@
 {
   "name": "@nextzy_torpedo/test-bump-version",
-  "version": "1.0.0",
+  "version": "1.0.0-releaseType.0",
   "description": "",
   "main": "index.js",
   "scripts": {
